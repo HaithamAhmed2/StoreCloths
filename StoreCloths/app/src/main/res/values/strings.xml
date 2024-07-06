@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cloths</string>
+    <string name="catalog">Каталог</string>
+    <string name="cart">Корзина</string>
+    <string name="history">История</string>
+    <string name="search">Поиск</string>
+    <string name="buy">Купить</string>
+    <string name="price">%d руб.</string>
+    <string name="grade">Оценка:</string>
+    <string name="reviews">Отзывы:</string>
+    <string name="price1">Цена:</string>
+    <string name="go_back">Назад</string>
+    <string name="ordering">Перейти к оформлению заказа</string>
+    <string name="total_price">Итого:</string>
+    <string name="date">Заказ от %s</string>
+    <string name="number">№ %s</string>
+    <string name="quantity">%d шт.</string>
+    <string name="detailsDate">Дата:</string>
+    <string name="detailsHeader">Заказ №%s</string>
+    <string name="detailsPrice">Цена: %d</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#42AAFF</color>
+    <color name="lightBlue">#558FBF</color>
+
+    <color name="colorYellow">#FFCD34</color>
+    <color name="colorLightYellow">#A68111</color>
+
+    <color name="colorLightGray">#1C1B1F</color>1C1B1F
+    <color name="colorGray">#626262</color>
+    <color name="colorDarkGray">#F0F0F0</color>
+
+    <color name="colorCaptionText">#F0F0F0</color>
+    <color name="colorText">@color/white</color>
+    <color name="history_item_background">#2C2B2F</color>
+</resources>
